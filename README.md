@@ -6,7 +6,7 @@
 
 # 💻알고리즘 개념
 
-- [유클리드 호제법_최대공약수](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95.md)
+- [유클리드 호제법_최대공약수&최소공배수](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95.md)
 
 
 
