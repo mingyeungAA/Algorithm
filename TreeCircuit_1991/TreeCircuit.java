@@ -12,7 +12,7 @@ public class TreeCircuit {
 			return;
 		}
 		
-		System.out.println((char)(x+'A'));  //루트 -> 'A'는 65이고 x는 int형이므로 숫자가 반환됨
+		System.out.println((char)(x+'A'));  //루트 -> 문자형으로 반환됨
 		preorder(a, a[x][0]);//왼쪽
 		preorder(a, a[x][1]);//오른쪽
 	}
@@ -59,17 +59,18 @@ public class TreeCircuit {
 			//-> i=0일때 line은 A B C이고 charAt(0)은 A를 가리키며, 이 A는 'A'와 빼기 연산되어 0이 된다. 
 			//   그래서 맨 처음 x는 0이다.
 			int x = line.charAt(0)-'A'; 
-			char y = line.charAt(2); //오른쪽(B) -> i가 0일때,A B C에서 charAt(2)는 B이다.
+			char y = line.charAt(2); //왼쪽(B) -> i가 0일때,A B C에서 charAt(2)는 B이다.
 			char z = line.charAt(4); //오른쪽(C) -> i가 0일때,A B C에서 charAt(4)는 C이다.
 
 			
-			//자식이 없으면,
+			//왼쪽에 자식이 없으면,
 			if(y == '.') {  
 				a[x][0] = -1;
 			}else {
 				a[x][0] = y-'A';
 			}
 			
+			//오른쪽에 자식이 없으면, 
 			if(z == '.') {
 				a[x][1] = -1;
 			}else {
