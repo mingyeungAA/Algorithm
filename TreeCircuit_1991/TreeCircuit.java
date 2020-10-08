@@ -62,7 +62,6 @@ public class TreeCircuit {
 			char y = line.charAt(2); //오른쪽(B) -> i가 0일때,A B C에서 charAt(2)는 B이다.
 			char z = line.charAt(4); //오른쪽(C) -> i가 0일때,A B C에서 charAt(4)는 C이다.
 
-			System.out.println("x : "+x);
 			
 			//자식이 없으면,
 			if(y == '.') {  
