@@ -9,6 +9,7 @@
 - [유클리드 호제법_최대공약수&최소공배수](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95.md)
 - [트리 구조 (Tree)](https://github.com/mingyeungAA/Algorithm/blob/master/%ED%8A%B8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md)
   - DFS, BFS 이용해서 만들어보자!
+- [완전탐색 (exhausive search)](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89.md)
 
 <br>
 
