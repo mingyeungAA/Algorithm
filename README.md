@@ -38,5 +38,6 @@
 
 - [크레인 인형뽑기 게임](https://github.com/mingyeungAA/Algorithm/blob/master/kakao_2019_winter_intership/CrainToy.java)
 - [두 개 뽑아서 더하기](https://github.com/mingyeungAA/Algorithm/blob/master/MonthCodeChallenge_Season01/Pick_two_plus.java)
+- [모의고사](https://github.com/mingyeungAA/Algorithm/blob/master/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)
 
 <br>
