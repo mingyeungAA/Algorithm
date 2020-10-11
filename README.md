@@ -15,6 +15,7 @@
 - [완전탐색 (exhausive search)](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89.md)
 
   - [[BaekJoon]일곱난쟁이_2309](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4_2309/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.java)
+  - [[BaekJoon]1,2,3 더하기_9095](https://github.com/mingyeungAA/Algorithm/blob/master/%EB%8D%94%ED%95%98%EA%B8%B0_9095/%EB%8D%94%ED%95%98%EA%B8%B0.java)
 
 <br>
 
@@ -26,6 +27,7 @@
 - [일곱난쟁이_2309](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4_2309/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.java)
 - [최대공약수와_최소공배수 2609](https://github.com/mingyeungAA/Algorithm/blob/master/GCDandLCM_2609/GCDandLCM.java)
 - [괄호_9012](https://github.com/mingyeungAA/Algorithm/blob/master/Parenthesis_9012/Parenthesis.java)
+- [1,2,3 더하기_9095](https://github.com/mingyeungAA/Algorithm/blob/master/%EB%8D%94%ED%95%98%EA%B8%B0_9095/%EB%8D%94%ED%95%98%EA%B8%B0.java)
 - [스택_10828](https://github.com/mingyeungAA/Algorithm/tree/master/Stack_10828)
 - [큐_10845](https://github.com/mingyeungAA/Algorithm/tree/master/Queue_10845)
 - [Deque덱_10866](https://github.com/mingyeungAA/Algorithm/tree/master/Queue_10845)
