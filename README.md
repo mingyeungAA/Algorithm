@@ -26,6 +26,7 @@
 - [트리순회_1991](https://github.com/mingyeungAA/Algorithm/blob/master/TreeCircuit_1991/TreeCircuit.java)
 - [일곱난쟁이_2309](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4_2309/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.java)
 - [최대공약수와_최소공배수 2609](https://github.com/mingyeungAA/Algorithm/blob/master/GCDandLCM_2609/GCDandLCM.java)
+- [색종이 만들기_2630](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%83%89%EC%A2%85%EC%9D%B4%EB%A7%8C%EB%93%A4%EA%B8%B0_2630/%EC%83%89%EC%A2%85%EC%9D%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
 - [괄호_9012](https://github.com/mingyeungAA/Algorithm/blob/master/Parenthesis_9012/Parenthesis.java)
 - [1,2,3 더하기_9095](https://github.com/mingyeungAA/Algorithm/blob/master/%EB%8D%94%ED%95%98%EA%B8%B0_9095/%EB%8D%94%ED%95%98%EA%B8%B0.java)
 - [스택_10828](https://github.com/mingyeungAA/Algorithm/tree/master/Stack_10828)
