@@ -47,3 +47,7 @@
 
 <br>
 
+# 💻참고용 Notion
+
+- [Ming Notion](https://www.notion.so/b9f63bf0bb2c4587b19dc274a56f4c87)
+
