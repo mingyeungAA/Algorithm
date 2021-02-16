@@ -49,6 +49,8 @@
 - [가장 큰 수](https://github.com/mingyeungAA/Algorithm/blob/master/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/Solution.java) - 정렬
 - [수박수박수](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95/WaterMelon.java)
 - [신규아이디추천](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C/NewIDRecommand.java)
+- [서울에서 김서방 찾기](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0/FindKim.java)
+- [핸드폰번호 가리기](https://github.com/mingyeungAA/Algorithm/blob/master/%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0/HidePhoneNumber.java)
 
 <br>
 
