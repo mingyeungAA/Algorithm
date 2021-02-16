@@ -48,6 +48,7 @@
 - [k번째수](https://github.com/mingyeungAA/Algorithm/blob/master/k%EB%B2%88%EC%A7%B8%EC%88%98/commands.java) - 정렬
 - [가장 큰 수](https://github.com/mingyeungAA/Algorithm/blob/master/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/Solution.java) - 정렬
 - [수박수박수](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95/WaterMelon.java)
+- [신규아이디추천](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C/NewIDRecommand.java)
 
 <br>
 
