@@ -17,6 +17,10 @@
   - [[BaekJoon]일곱난쟁이_2309](https://github.com/mingyeungAA/Algorithm/blob/master/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4_2309/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.java)
   - [[BaekJoon]1,2,3 더하기_9095](https://github.com/mingyeungAA/Algorithm/blob/master/%EB%8D%94%ED%95%98%EA%B8%B0_9095/%EB%8D%94%ED%95%98%EA%B8%B0.java)
 
+- 그리디알고리즘(Greedy Algorithm)
+
+  - [[BackJoon]회의실배정_1931]()
+
 <br>
 
 # 💻[BaekJoon](https://www.acmicpc.net/)
@@ -32,6 +36,7 @@
 - [스택_10828](https://github.com/mingyeungAA/Algorithm/tree/master/Stack_10828)
 - [큐_10845](https://github.com/mingyeungAA/Algorithm/tree/master/Queue_10845)
 - [Deque덱_10866](https://github.com/mingyeungAA/Algorithm/tree/master/Queue_10845)
+- [회의실배정_1931]()
 
 <br>
 
