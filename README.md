@@ -19,6 +19,7 @@
 
 - 그리디알고리즘(Greedy Algorithm)
 
+  - [[BaekJoon]동전0_11047]()
   - [[BackJoon]회의실배정_1931]()
 
 <br>
@@ -36,7 +37,7 @@
 - [스택_10828](https://github.com/mingyeungAA/Algorithm/tree/master/Stack_10828)
 - [큐_10845](https://github.com/mingyeungAA/Algorithm/tree/master/Queue_10845)
 - [Deque덱_10866](https://github.com/mingyeungAA/Algorithm/tree/master/Queue_10845)
-- [회의실배정_1931]()
+- [동전0_11047]()
 
 <br>
 
